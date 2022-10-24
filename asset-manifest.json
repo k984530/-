@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HanKKi/static/css/main.916aa3af.css",
-    "main.js": "/HanKKi/static/js/main.c9c344f8.js",
+    "main.js": "/HanKKi/static/js/main.a6638b38.js",
     "static/media/main.mp4": "/HanKKi/static/media/main.d210759c8c96381c6c31.mp4",
     "static/media/cooperation.jpg": "/HanKKi/static/media/cooperation.d2bfd2d82d90b028541c.jpg",
     "index.html": "/HanKKi/index.html",
     "main.916aa3af.css.map": "/HanKKi/static/css/main.916aa3af.css.map",
-    "main.c9c344f8.js.map": "/HanKKi/static/js/main.c9c344f8.js.map"
+    "main.a6638b38.js.map": "/HanKKi/static/js/main.a6638b38.js.map"
   },
   "entrypoints": [
     "static/css/main.916aa3af.css",
-    "static/js/main.c9c344f8.js"
+    "static/js/main.a6638b38.js"
   ]
 }
