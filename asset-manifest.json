@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/HanKKi/static/css/main.fe4ca098.css",
-    "main.js": "/HanKKi/static/js/main.131f3f2b.js",
-    "static/media/open.mp4": "/HanKKi/static/media/open.217bc138c2eb8d98fc50.mp4",
+    "main.js": "/HanKKi/static/js/main.bcf5ebcf.js",
+    "static/media/open.mp4": "/HanKKi/static/media/open.b03526f5c2e102da29d7.mp4",
     "static/media/restaurant.jpg": "/HanKKi/static/media/restaurant.496eb3fe4d69e349dbe8.jpg",
     "static/media/QR.jpg": "/HanKKi/static/media/QR.d12edac33c7c091f6639.jpg",
     "static/media/hotel.jpg": "/HanKKi/static/media/hotel.9dc73c07e6514be1b3da.jpg",
     "static/media/cooperation.jpg": "/HanKKi/static/media/cooperation.d2bfd2d82d90b028541c.jpg",
     "index.html": "/HanKKi/index.html",
     "main.fe4ca098.css.map": "/HanKKi/static/css/main.fe4ca098.css.map",
-    "main.131f3f2b.js.map": "/HanKKi/static/js/main.131f3f2b.js.map"
+    "main.bcf5ebcf.js.map": "/HanKKi/static/js/main.bcf5ebcf.js.map"
   },
   "entrypoints": [
     "static/css/main.fe4ca098.css",
-    "static/js/main.131f3f2b.js"
+    "static/js/main.bcf5ebcf.js"
   ]
 }
